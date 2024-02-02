@@ -1,5 +1,5 @@
 # License Plates Recognition
-## Technion - The school of continuing education<br/>Course: Technion Certified Data Scientist
+## Technion - Israel Institute of Technology<br/>Department: The school of continuing education<br/>Course: Technion Certified Data Scientist
 
 **Course project:** Developing of neural network that recognizes car license plates.<br/>
 **Dataset:** Cars images containing license plates.<br/>
