@@ -9,4 +9,7 @@
 &emsp;&emsp;via-2.0.12 - VGG Image Annotator - an image annotation tool that can be used to<br/>
 &emsp;&emsp;define regions in an image and create textual descriptions of those regions.
 
+The dataset presented in the repository has only 10 examples (images.zip). The full dataset has 500 images.<br/>
+The file *Tests_example.pdf* contains tests results/output.<br/>
+
 See *"Final Project - deep learning.pdf"* for the details.
