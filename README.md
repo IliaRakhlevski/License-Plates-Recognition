@@ -2,6 +2,7 @@
 ## Technion - Israel Institute of Technology<br/>Department: The school of continuing education<br/>Course: Technion Certified Data Scientist
 
 **Course final project:** Developing of neural network that recognizes car license plates.<br/>
+**Project Completion Date:** 2024<br/>
 **Dataset:** Cars images containing license plates.<br/>
 **Programming Language:** Python 3.10.<br/>
 **Technologies/Methods:** Faster R-CNN, PyTorch.<br/>
