@@ -1,7 +1,7 @@
 # License Plates Recognition
 *Course final project · Technion Certified Data Scientist · [Technion – Israel Institute of Technology](https://www.technion.ac.il/) · 2024*
 
-Developing of neural network that recognizes car license plates.<br/>
+Development of a neural network that recognizes car license plates.<br/>
 **Dataset:** Cars images containing license plates.<br/>
 **Programming Language:** Python 3.10.<br/>
 **Technologies/Methods:** Faster R-CNN, PyTorch.<br/>
